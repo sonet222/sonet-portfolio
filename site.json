@@ -1,0 +1,10 @@
+{
+  "description": "Explore software engineering student Md Shifat Hasan Sonet’s portfolio, projects, skills, and education, and connect through an interactive portfolio assistant.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
